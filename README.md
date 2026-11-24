@@ -6,7 +6,7 @@ A beginner machine learning project that estimates a wine quality score from phy
 
 Add your own internship ID here before submitting this repository:
 
-`YOUR_INTERN_ID`
+`CIS134`
 
 ## How it works
 
